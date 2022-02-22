@@ -1,8 +1,8 @@
 # project_trip
 
-# Projeto relacionado ao tratamento da base de dados de uma locadora de veículos, as informações armazenadas referem-se a telemetria dos veículos em suas respectivas viagens
+# Projeto relacionado ao tratamento da base de dados de uma locadora de veículos, as informações armazenadas referem-se a telemetria dos veículos em suas respectivas viagens.
 
-# O objetivo é o usuário conseguir visualizar o do total de viagens realizadas, total de quilômetros percorridos, tempo total em movimento e tempo total parado por veículo
+# O objetivo é o usuário conseguir visualizar o do total de viagens realizadas, total de quilômetros percorridos, tempo total em movimento e tempo total parado por veículo.
 
 # Para isso, primeiramente foi criado no próprio banco de dados outra tabela (trip_import) para tratar os dados da tabela geral e fazer os cálculos necessários. Em seguida, criou-se uma query para realizar a inserção das informações dentro da nova tabela.
 
